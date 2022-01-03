@@ -1,1 +1,1 @@
-# DigitalSchoolBillboard
+# DigitalBillboard
